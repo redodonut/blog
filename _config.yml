@@ -9,7 +9,7 @@
 title: Versido Blog
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Versido Blog shares story about Design and Web Development.
+  Versido shares notable story about Design and Web Development. 
 baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "https://versido.my.id" # the base hostname & protocol for your site
 twitter_username: versido
