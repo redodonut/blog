@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Versido Blog
-email: your-email@domain.com
+title: Wirandraw Blog
+email: wirandraw@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Versido shares notable story about Design and Web Development. 
-baseurl: "/blog/" # the subpath of your site, e.g. /blog
-url: "https://versido.my.id" # the base hostname & protocol for your site
-twitter_username: versido
-github_username:  versido
+  Let's Talking about Design & Front-End Development
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://wirandraw.github.io" # the base hostname & protocol for your site
+twitter_username: wirandraw
+github_username:  wirandraw
 
 # Build settings
 markdown: kramdown
