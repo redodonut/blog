@@ -9,7 +9,7 @@
 title: Wirandraw Blog
 email: wirandraw@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Let's Talking about Design & Front-End Development
+  Talking about Design & Front-End Development
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://wirandraw.github.io" # the base hostname & protocol for your site
 twitter_username: wirandraw
